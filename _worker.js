@@ -14,8 +14,14 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
-vless://b7a392e2-4ef0-4496-90bc-1c37bb234904@cf.090227.xyz:443?encryption=none&security=tls&sni=edgetunnel-2z2.pages.dev&fp=random&type=ws&host=edgetunnel-2z2.pages.dev&path=%2F%3Fed%3D2048#%E5%8A%A0%E5%85%A5%E6%88%91%E7%9A%84%E9%A2%91%E9%81%93t.me%2FCMLiussss%E8%A7%A3%E9%94%81%E6%9B%B4%E5%A4%9A%E4%BC%98%E9%80%89%E8%8A%82%E7%82%B9
-https://sub.xf.free.hr/auto
+https://alvless.comorg.us.kg/sub?host=github.cfsvip.dynv6.net&uuid=28342213-8cf1-44b6-bc49-1ffd928bb0a9
+https://raw.githubusercontent.com/Huibq/TrojanLinks/master/links/trojan
+https://moistr.freenods.sbs/sub?host=github.cfsvip.dynv6.net&uuid=28342213-8cf1-44b6-bc49-1ffd928bb0a9
+https://best.cfsvip.dynv6.net/dd0559d4-92a8-4fd8-8fbc-f9694f3ca9ba/pty
+https://VLESS.fxxk.dedyn.io/sub?host=github.cfsvip.dynv6.net&uuid=28342213-8cf1-44b6-bc49-1ffd928bb0a9
+https://sub.skvless.us.kg/sub?host=ts.6516789.xyz&uuid=99280094-e683-476b-a3cd-0d37c3892c6f
+https://bpb.cfsvip.dynv6.net/sub/56cb61a6-bd8e-48a8-a7b8-77a43fb563da#BPB-Normal
+https://king361.fxxk.dedyn.io/sub?host=github.cfsvip.dynv6.net&uuid=28342213-8cf1-44b6-bc49-1ffd928bb0a9
 `
 
 let urls = [];
