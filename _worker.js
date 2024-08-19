@@ -23,7 +23,6 @@ https://sub.skvless.us.kg/sub?host=ts.6516789.xyz&uuid=99280094-e683-476b-a3cd-0
 https://bpb.cfsvip.dynv6.net/sub/56cb61a6-bd8e-48a8-a7b8-77a43fb563da#BPB-Normal
 https://king361.fxxk.dedyn.io/sub?host=github.cfsvip.dynv6.net&uuid=28342213-8cf1-44b6-bc49-1ffd928bb0a9
 `
-
 let urls = [];
 let subconverter = "SUBAPI.fxxk.dedyn.io"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
 let subconfig = "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_MultiCountry.ini"; //订阅配置文件
