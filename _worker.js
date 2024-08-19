@@ -13,6 +13,7 @@ let timestamp = 4102329600000;//2099-12-31
 let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
+
 let MainData = `
 https://alvless.comorg.us.kg/sub?host=github.cfsvip.dynv6.net&uuid=28342213-8cf1-44b6-bc49-1ffd928bb0a9
 https://raw.githubusercontent.com/Huibq/TrojanLinks/master/links/trojan
