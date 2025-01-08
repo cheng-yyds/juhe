@@ -15,20 +15,12 @@ let cacheTTL = 24 ;//小时，缓存时长
 //节点链接 + 订阅链接
 
 let MainData = `
-trojan://2baa2d43-b564-3b1f-92c7-c6fa1ff7e0a2@scm.zarelayv1.com:39874/?type=tcp&security=tls&sni=us-katt.zodport.com#%E4%B8%81%E7%9C%9F%EF%BC%81%E5%A4%A7%E6%BC%82%E4%BA%AE
-
 https://mirror.ghproxy.com/https://raw.githubusercontent.com/ripaojiedian/freenode/main/http
-
 https://alvless.comorg.us.kg/sub?host=qifei.cfsvip.us.kg&uuid=28342213-8cf1-44b6-bc49-1ffd928bb0a9
-
 https://best.cfsvip.dynv6.net/dd0559d4-92a8-4fd8-8fbc-f9694f3ca9ba/pty
-
 https://owo.o00o.ooo/sub?host=qifei.cfsvip.us.kg&uuid=28342213-8cf1-44b6-bc49-1ffd928bb0a9
-
 https://VLESS.fxxk.dedyn.io/sub?host=qifei.cfsvip.us.kg&uuid=28342213-8cf1-44b6-bc49-1ffd928bb0a9
-
 https://zrf.zrf.me/sub?host=qifei.cfsvip.us.kg&uuid=28342213-8cf1-44b6-bc49-1ffd928bb0a9
-
 `
 let urls = [];
 let subconverter = "SUBAPI.fxxk.dedyn.io"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
