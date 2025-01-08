@@ -15,12 +15,12 @@ let cacheTTL = 24 ;//小时，缓存时长
 //节点链接 + 订阅链接
 
 let MainData = `
-https://alvless.comorg.us.kg/sub?host=github.cfsvip.dynv6.net&uuid=28342213-8cf1-44b6-bc49-1ffd928bb0a9
-https://moistr.freenods.sbs/sub?host=github.cfsvip.dynv6.net&uuid=28342213-8cf1-44b6-bc49-1ffd928bb0a9
+https://alvless.comorg.us.kg/sub?host=qifei.cfsvip.us.kg&uuid=28342213-8cf1-44b6-bc49-1ffd928bb0a9
 https://best.cfsvip.dynv6.net/dd0559d4-92a8-4fd8-8fbc-f9694f3ca9ba/pty
-https://VLESS.fxxk.dedyn.io/sub?host=github.cfsvip.dynv6.net&uuid=28342213-8cf1-44b6-bc49-1ffd928bb0a9
-https://sub.skvless.us.kg/sub?host=ts.6516789.xyz&uuid=99280094-e683-476b-a3cd-0d37c3892c6f
-https://king361.fxxk.dedyn.io/sub?host=github.cfsvip.dynv6.net&uuid=28342213-8cf1-44b6-bc49-1ffd928bb0a9
+https://owo.o00o.ooo/sub?host=qifei.cfsvip.us.kg&uuid=28342213-8cf1-44b6-bc49-1ffd928bb0a9
+https://VLESS.fxxk.dedyn.io/sub?host=qifei.cfsvip.us.kg&uuid=28342213-8cf1-44b6-bc49-1ffd928bb0a9
+https://zrf.zrf.me/sub?host=qifei.cfsvip.us.kg&uuid=28342213-8cf1-44b6-bc49-1ffd928bb0a9
+
 `
 let urls = [];
 let subconverter = "SUBAPI.fxxk.dedyn.io"; //在线订阅转换后端，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
