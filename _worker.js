@@ -13,7 +13,7 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://alvless.comorg.us.kg/sub?host=qifei.cfsvip.us.kg&uuid=28342213-8cf1-44b6-best.cfsvip.dynv6.net&uuid=dd0559d4-92a8-4fd8-8fbc-f9694f3ca9babc49-1ffd928bb0a9
+https://mxlsub.me/free
 https://best.cfsvip.dynv6.net/dd0559d4-92a8-4fd8-8fbc-f9694f3ca9ba/pty
 https://owo.o00o.ooo/sub?host=best.cfsvip.dynv6.net&uuid=dd0559d4-92a8-4fd8-8fbc-f9694f3ca9ba
 https://VLESS.fxxk.dedyn.io/sub?host=best.cfsvip.dynv6.net&uuid=dd0559d4-92a8-4fd8-8fbc-f9694f3ca9ba
