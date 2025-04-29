@@ -1,7 +1,7 @@
 
 // 部署完成后在网址后面加上这个，获取自建节点和机场聚合节点，/?token=auto或/auto或
 
-let mytoken = 'auto';
+let mytoken = 'goodluck';
 let guestToken = ''; //可以随便取，或者uuid生成，https://1024tools.com/uuid
 let BotToken = ''; //可以为空，或者@BotFather中输入/start，/newbot，并关注机器人
 let ChatID = ''; //可以为空，或者@userinfobot中获取，/start
@@ -13,7 +13,14 @@ let timestamp = 4102329600000;//2099-12-31
 
 //节点链接 + 订阅链接
 let MainData = `
-https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+https://mxlsub.me/free
+https://best.cfsvip.dynv6.net/dd0559d4-92a8-4fd8-8fbc-f9694f3ca9ba/pty
+https://owo.o00o.ooo/sub?host=best.cfsvip.dynv6.net&uuid=dd0559d4-92a8-4fd8-8fbc-f9694f3ca9ba
+https://VLESS.fxxk.dedyn.io/sub?host=best.cfsvip.dynv6.net&uuid=dd0559d4-92a8-4fd8-8fbc-f9694f3ca9ba
+https://zrf.zrf.me/sub?host=best.cfsvip.dynv6.net&uuid=dd0559d4-92a8-4fd8-8fbc-f9694f3ca9ba
+https://sub.keaeye.icu/sub?host=best.cfsvip.dynv6.net&uuid=dd0559d4-92a8-4fd8-8fbc-f9694f3ca9ba
+https://raw.githubusercontent.com/mfbpn/tg_mfbpn_sub/main/trial
+https://sub.789.st/sub?target=clash&url=https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml&sort=true&_=1695531188706
 `;
 
 let urls = [];
